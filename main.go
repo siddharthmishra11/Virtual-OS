@@ -109,5 +109,4 @@ func main(){
 	w.CenterOnScreen()
 	w.ShowAndRun()
 }
-
  
